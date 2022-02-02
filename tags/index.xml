@@ -6,11 +6,38 @@
     <description>Recent content in Tags on Lucille ｜ 美食x旅遊x日常</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 01 Feb 2022 15:30:47 +0800</lastBuildDate><atom:link href="https://tayinv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 20:00:47 +0800</lastBuildDate><atom:link href="https://tayinv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Food</title>
+      <link>https://tayinv.github.io/tags/food/</link>
+      <pubDate>Wed, 02 Feb 2022 20:00:47 +0800</pubDate>
+      
+      <guid>https://tayinv.github.io/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>台北</title>
+      <link>https://tayinv.github.io/tags/%E5%8F%B0%E5%8C%97/</link>
+      <pubDate>Wed, 02 Feb 2022 20:00:47 +0800</pubDate>
+      
+      <guid>https://tayinv.github.io/tags/%E5%8F%B0%E5%8C%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>台灣</title>
+      <link>https://tayinv.github.io/tags/%E5%8F%B0%E7%81%A3/</link>
+      <pubDate>Wed, 02 Feb 2022 20:00:47 +0800</pubDate>
+      
+      <guid>https://tayinv.github.io/tags/%E5%8F%B0%E7%81%A3/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Study</title>
       <link>https://tayinv.github.io/tags/study/</link>
-      <pubDate>Tue, 01 Feb 2022 15:30:47 +0800</pubDate>
+      <pubDate>Tue, 01 Feb 2022 21:38:47 +0800</pubDate>
       
       <guid>https://tayinv.github.io/tags/study/</guid>
       <description></description>
@@ -58,15 +85,6 @@
       <pubDate>Sat, 29 Jan 2022 23:50:47 +0800</pubDate>
       
       <guid>https://tayinv.github.io/tags/travel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>台灣</title>
-      <link>https://tayinv.github.io/tags/%E5%8F%B0%E7%81%A3/</link>
-      <pubDate>Sat, 29 Jan 2022 23:50:47 +0800</pubDate>
-      
-      <guid>https://tayinv.github.io/tags/%E5%8F%B0%E7%81%A3/</guid>
       <description></description>
     </item>
     
